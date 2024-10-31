@@ -7,3 +7,18 @@
   
 ## __About Me__
 I am trying to learn the truth of JavaScript, but so far it is far from me.
+
+## __Skills__
+- HTML (elementary)
+- CSS (elementary)
+- JavaScript (elementary)
+- Git (elementary)
+- 
+## __Code Example__
+
+```
+function delayedGreeting(name) {
+	setTimeout(() => console.log(`Привет, ${name}!`), 3000);
+}
+delayedGreeting('name');
+```
