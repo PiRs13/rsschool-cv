@@ -13,7 +13,7 @@ I am trying to learn the truth of JavaScript, but so far it is far from me.
 - CSS (elementary)
 - JavaScript (elementary)
 - Git (elementary)
-- 
+
 ## __Code Example__
 
 ```
